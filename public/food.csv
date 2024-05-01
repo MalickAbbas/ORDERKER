@@ -1,0 +1,102 @@
+name,ingredients,diet,prep_time,cook_time,flavor_profile,course,Price,No Of Peoples Can Eat,Images
+Balu shahi,"Maida flour, yogurt, oil, sugar",vegetarian,45,25,sweet,dessert,100,2,https://www.cookwithkushi.com/wp-content/uploads/2021/10/best_indian_sweet_balushahi.jpg
+Boondi,"Gram flour, ghee, sugar",vegetarian,80,30,sweet,dessert,100,2,https://static.toiimg.com/thumb/58417488.cms?imgsize=97128&width=800&height=800
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,15,60,sweet,dessert,150,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkvx5bPaL54zkEOIChtzrO5K3dl30J0WIIyzaIeargMQ&s
+Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",vegetarian,15,30,sweet,dessert,200,2,https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Dhara/Rajasthani_Ghevar_400.jpg
+Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,15,40,sweet,dessert,350,2,https://static01.nyt.com/images/2023/10/19/multimedia/ND-Gulab-Jamun-tqgl/ND-Gulab-Jamun-tqgl-square640.jpg
+Imarti,"Sugar syrup, lentil flour",vegetarian,10,50,sweet,dessert,200,2,https://giftspak.com/wp-content/uploads/2022/05/Amrati.jpg
+Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,10,50,sweet,dessert,200,2,https://www.dwarakaorganic.com/wp-content/uploads/2020/06/Jalebi.jpg
+Kaju katli,"Cashews, ghee, cardamom, sugar",vegetarian,10,20,sweet,dessert,150,2,https://static.toiimg.com/thumb/55048826.cms?imgsize=392932&width=800&height=800
+Kalakand,"Milk, cottage cheese, sugar",vegetarian,20,30,sweet,dessert,190,2,https://static.toiimg.com/thumb/70656402.cms?imgsize=216950&width=800&height=800
+Kheer,"Milk, rice, sugar, dried fruits",vegetarian,10,40,sweet,dessert,210,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfGaL3a03E0EAujWA9EvSGXZVUTPrqNq34ektR8OTgw&s
+Laddu,"Gram flour, ghee, sugar",vegetarian,10,40,sweet,dessert,350,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtqoszToqFYIXwLCUdcku5Y21Bnto9QXDhk7IInQsCtQ&s
+Lassi,"Yogurt, milk, nuts, sugar",vegetarian,5,5,sweet,dessert,70,2,https://thefoodhog.com/wp-content/uploads/2022/10/lassi-ALIA-MUKHERJEE-CC-by-SA-4.0-735x454.jpeg
+Nankhatai,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",vegetarian,20,30,sweet,dessert,40,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEgtMB6cZ3c7-gXuWC9HO5gkwJ--i7OngffNfarZcogg&s
+Petha,"Firm white pumpkin, sugar, kitchen lime, alum powder",vegetarian,10,30,sweet,dessert,78,2,https://miro.medium.com/v2/resize:fit:480/1*JigCTixdoHl4HZvqxM3dQA.jpeg
+Phirni,"Rice, sugar, nuts",vegetarian,30,20,sweet,dessert,250,2,https://static.toiimg.com/thumb/68373489.cms?imgsize=363163&width=800&height=800
+Rabri,"Condensed milk, sugar, spices, nuts",vegetarian,10,45,sweet,dessert,250,2,https://static.toiimg.com/thumb/61438710.cms?imgsize=361356&width=800&height=800
+Sheera,"Semolina, ghee, nuts, milk",vegetarian,10,25,sweet,dessert,150,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ts0h_4b_Dxpy5Q9sbDKY8uuEonax-pkIDXd3G0OaGA&s
+Singori,"Khoa, coconut, molu leaf",vegetarian,10,20,sweet,dessert,139,2,https://img-global.cpcdn.com/recipes/69d27c91f1e2d937/1200x630cq70/photo.jpg
+Sohan halwa,"Corn flour, ghee, dry fruits",vegetarian,10,60,sweet,dessert,450,2,https://kfoods.com/images1/newrecipeicon/multani-sohan-halwa_3176.jpg
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",vegetarian,1,60,sweet,dessert,400,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnL-7-2hFK8mbzhIZ1mpddijJcQeAAEUXXJlhVZMuXhA&s
+Chhena jalebi,"Chhena, sugar, ghee",vegetarian,10,50,sweet,dessert,500,2,https://cdn.shopify.com/s/files/1/1657/2397/files/paneer-jalebi_1410613517_540x540_697ff1f1-4c64-44ce-9038-33f0434200fe_large.jpg?v=1501824661
+Chhena kheeri,"Chhena, sugar, milk",vegetarian,1,60,sweet,dessert,500,2,https://www.yummytummyaarthi.com/wp-content/uploads/2016/03/1-21.jpg
+Chhena poda,"Sugar, chenna cheese",vegetarian,10,45,sweet,dessert,85,2,https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Chhena_Poda.jpg
+Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,40,60,sweet,dessert,550,2,"https://m.media-amazon.com/images/I/61EDJ9AmDKL._AC_UF1000,1000_QL80_.jpg"
+Kheer sagar,"Chenna, condensed milk, sugar, saffron, cardamom",vegetarian,25,60,sweet,dessert,450,2,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Khira_sagara.jpg/800px-Khira_sagara.jpg
+Ledikeni,"Chhena, sugar, ghee",vegetarian,45,45,sweet,dessert,320,2,https://im.whatshot.in/img/2019/Apr/l4-1556013200.jpg
+Lyangcha,"Flour, fried milk power, sugar syrup",vegetarian,20,30,sweet,dessert,150,2,https://i.pinimg.com/736x/d8/75/52/d87552233e2df3dcccb9cac44884cd3e.jpg
+Malapua,"Yoghurt, refined flour, ghee, fennel seeds",vegetarian,10,120,sweet,dessert,145,2,https://www.yummytummyaarthi.com/wp-content/uploads/2013/10/malpua.jpg
+Mihidana,"Besan flour, sugar, ghee",vegetarian,15,30,sweet,dessert,126,2,https://www.scratchingcanvas.com/wp-content/uploads/2016/10/Moong-Laddu.6.jpg
+Misti doi,"Milk, jaggery",vegetarian,480,30,sweet,dessert,320,2,https://www.mydiversekitchen.com/wp-content/uploads/2016/09/laal-mishti-doi-a-bengali-jaggery-sweetened-yogurt.1024x1024.jpg
+Pantua,"Chhena, sugar, ghee, flour",vegetarian,45,45,sweet,dessert,154,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSs3PmDELJcyJG-gzeW52i3SrScmV_VQkonUu3QFTsA&s
+Pithe,"Rice flour, wheat flour",vegetarian,15,35,sweet,dessert,180,2,https://www.therecipespk.com/wp-content/uploads/2013/10/Laddu-peethi-Wale.png
+Rasabali,"Chenna, sweetened milk",vegetarian,15,30,sweet,dessert,140,2,https://www.justgotochef.com/img/1544704831-Rasabali%2001.jpg
+Ras malai,"Chhena, reduced milk, pistachio",vegetarian,180,60,sweet,dessert,160,2,https://chaiandchurros.com/wp-content/uploads/2021/06/RasMalaiPic-500x500.jpeg
+Rasgulla,"Chhena, sugar, cardamom",vegetarian,10,90,sweet,dessert,180,2,https://kfoods.com/images1/newrecipeicon/rasgulla_5819.jpg
+Sandesh,"Milk, sugar, saffron, cardamom",vegetarian,30,20,sweet,dessert,145,2,https://cdn3.foodviva.com/static-content/food-images/bengali-recipes/sandesh-sondesh/sandesh-sondesh.jpg
+Adhirasam,"Rice flour, jaggery, ghee, vegetable oil, elachi",vegetarian,10,50,sweet,dessert,165,2,https://www.ticklingpalates.com/wp-content/uploads/2020/11/thinai-adhirasam.jpg
+Ariselu,"Rice flour, jaggery, ghee",vegetarian,15,75,sweet,dessert,149,2,https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/swapna-sunil20180516095744179.jpeg
+Bandar laddu,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",vegetarian,5,35,sweet,dessert,190,2,https://wedesserts.com/wp-content/uploads/2022/09/Bandar-Laddu.jpg
+Chikki,"Peanuts, jaggery",vegetarian,10,20,sweet,dessert,156,2,https://www.cookwithmanali.com/wp-content/uploads/2018/01/Peanut-Chikki-500x375.jpg
+Dharwad pedha,"Milk, Sugar, Dharwadi buffalo milk",vegetarian,20,60,sweet,dessert,145,2,https://mishrapedhaonline.com/wp-content/uploads/2020/11/Dharwad-Pedha-Diwali.jpg
+Double ka meetha,"Loaf bread, milk",vegetarian,20,30,sweet,dessert,160,2,https://x9s2d6a3.rocketcdn.me/wp-content/uploads/2018/04/double-ka-meetha-25_1200x1200.jpg
+Gavvalu,"Rice flour, sugar, salt, ghee, semolina",vegetarian,10,30,sweet,dessert,145,2,https://i.ytimg.com/vi/iAqIbDO6S24/maxresdefault.jpg
+Kakinada khaja,"Wheat flour, sugar",vegetarian,10,30,sweet,dessert,160,2,https://www.godavarivantillu.com/cdn/shop/products/tapeswaram-madatha-kaja-773_1200x1200.jpg?v=1637866869
+Kuzhi paniyaram,"Black lentils, rice",vegetarian,10,20,sweet,dessert,190,2,https://www.whiskaffair.com/wp-content/uploads/2015/08/Kuzhi-Paniyaram-2-3.jpg
+Mysore pak,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",vegetarian,5,20,sweet,dessert,199,2,"https://static.toiimg.com/thumb/msid-52245012,width=1200,height=900/52245012.jpg"
+Obbattu holige,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,180,60,sweet,main course,560,2,https://madaboutkitchen.in/wp-content/uploads/2016/10/Obattu-5-.jpg
+Palathalikalu,"Rice flour, milk",vegetarian,10,25,sweet,dessert,145,3,https://vismaifood.com/storage/app/uploads/public/6c2/838/252/thumb__1200_0_0_0_auto.jpg
+Poornalu,"Chana dal, jaggery",vegetarian,240,60,sweet,dessert,189,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcoa3TodI0NIjfbKiwlysw_A3K69dr78cverkW1JTDHQ&s
+Pongal,"Rice, jaggery, cashews, ghee",vegetarian,5,20,sweet,dessert,165,3,https://static.toiimg.com/thumb/61051454.cms?imgsize=1180189&width=800&height=800
+Pootharekulu,"Rice flour, powdered sugar, ghee",vegetarian,10,60,sweet,dessert,149,2,https://d3j4nopn8wm92b.cloudfront.net/sites/default/files/styles/recipe_main/public/poothri_2.jpg?itok=xFLh-XHV
+Qubani ka meetha,"Apricots, sugar syrup",vegetarian,10,20,sweet,dessert,199,2,https://www.yummyfoodrecipes.com/resources/picture/org/Khubani-ka-meetha.jpg
+Sheer korma,"Vermicelli pudding, milk",vegetarian,10,20,sweet,dessert,209,2,https://www.teaforturmeric.com/wp-content/uploads/2021/05/20-Minute-Seviyan-Sheer-Khurma-13-500x500.jpg
+Unni Appam,"Rice flour, banana, jaggery, coconut",vegetarian,10,20,sweet,dessert,219,2,https://www.vegrecipesofindia.com/wp-content/uploads/2017/10/kerala-unniyappam-recipe-1a.jpg
+Kajjikaya,"Rice flour, jaggery, coconut",vegetarian,40,15,sweet,dessert,250,2,https://i.ndtvimg.com/i/2018-03/gujiya_620x330_71519903234.jpg
+Anarsa,"Rice flour, jaggery, khus-khus seeds",vegetarian,10,50,sweet,dessert,169,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9shccjDEk84Rq5mn1CRqrtt0JCx4-iRFjMZkQdRuCA&s
+Basundi,"Sugar, milk, nuts",vegetarian,10,35,sweet,dessert,170,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzVBkEqvw-K4aeHhzalYVWR272Ey6oGUGumODHPX7vAQ&s
+Dhondas,"Cucumber, rava",vegetarian,10,50,sweet,dessert,156,2,https://spicesandaromas.com/wp-content/uploads/2020/04/dhondas-recipe-800x530.jpg
+Doodhpak,"Milk, rice, sugar, dry fruits",vegetarian,10,60,sweet,dessert,149,2,https://img-global.cpcdn.com/recipes/54cbd95e9f42657a/1200x630cq70/photo.jpg
+Mahim halwa,"Semolina, sugar",vegetarian,10,25,sweet,dessert,145,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMksCYZj4VWh4CnrAEVXgxvKpoyZNc2geUa1n61NVLkQ&s
+Modak,"Rice flour, coconut, jaggery ",vegetarian,10,15,sweet,dessert,165,2,https://suhana.com/wp-content/uploads/2023/09/How-to-Make-Modak-2.png
+Shankarpali,"Sugar, ghee, maida flour, semolina",vegetarian,10,35,sweet,dessert,169,2,https://upload.wikimedia.org/wikipedia/commons/5/55/Shankarpali_sweets_mithai_Western_India_2012.jpg
+Shrikhand,"Curd, sugar, saffron, cardamom",vegetarian,10,720,sweet,dessert,179,2,"https://assets.bonappetit.com/photos/5f03400b4f8a56d88daec2cf/16:9/w_1280,c_limit/HLY-Shrikhand-16x9.jpg"
+Sutar feni,"Maida, sugar, ghee",vegetarian,15,55,sweet,dessert,99,2,https://www.sukhadia.com/media/catalog/product/cache/ae34afe375cb69ebf9888fa7be3b3d21/s/u/sutarfeni.jpg
+Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",non vegetarian,10,40,spicy,main course,460,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSn-mDK_pPX5mMisNq1FjSP6aaIBd-UF51JKx3ydklZQ&s
+Pork Bharta,"Boiled pork, onions, chillies, ginger and garlic",non vegetarian,-1,-1,spicy,main course,850,4,https://www.mycurryveda.com/wp-content/uploads/2020/03/CK5.jpg
+Chak Hao Kheer,"Rice, milk, sugar, cardamom",vegetarian,240,45,sweet,dessert,145,3,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9ZoSbyi67276NOXaAOrtYiWbtM-MzKR2N2XDDDNkjQ&s
+Galho,"Rice, axone, salt, water, chillies, pork",non vegetarian,5,15,spicy,main course,500,2,https://upload.wikimedia.org/wikipedia/commons/6/68/Pumpkin_Galho.jpg
+Aloo gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",vegetarian,10,20,spicy,main course,580,3,https://niksharmacooks.com/wp-content/uploads/2022/11/AlooGobiDSC_5234.jpg
+Aloo tikki,"Rice flour, potato, bread crumbs, garam masala, salt",vegetarian,5,20,spicy,main course,590,3,https://assets.bonappetit.com/photos/602c3f3947d6e85be58927ab/1:1/w_2560%2Cc_limit/Basically-AlooTikki.jpg
+Aloo matar,"Potato, peas, chillies, ginger, garam masala, garlic",vegetarian,5,40,spicy,main course,690,2,https://www.spiceupthecurry.com/wp-content/uploads/2014/11/dry-aloo-matar-1.jpg
+Aloo methi,"Potato, fenugreek leaves, chillies, salt, oil",vegetarian,10,40,bitter,main course,490,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkeKpdrYXqW2YNMhwpsd5UBLpVjXJ_yG0RZwMbduMbw&s
+Aloo shimla mirch,"Potato, shimla mirch, garam masala, amchur powder, salt",vegetarian,10,40,spicy,main course,799,3,https://www.whiskaffair.com/wp-content/uploads/2021/05/Dry-Aloo-Capsicum-2-3.jpg
+Bhatura,"Chole, rava, yogurt, plain flour, baking soda",vegetarian,20,20,spicy,main course,899,2,https://www.cookingcarnival.com/wp-content/uploads/2015/04/Bhatura.jpg
+Bhindi masala,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",vegetarian,20,30,spicy,main course,890,3,https://www.anveshan.farm/cdn/shop/articles/BhindiMasala.jpg?v=1690790485
+Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",non vegetarian,30,120,spicy,main course,1090,4,https://glebekitchen.com/wp-content/uploads/2019/12/chickenbiryanibowltop.jpg
+Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",non vegetarian,10,35,spicy,main course,599,3,"https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400"
+Chana masala,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",vegetarian,20,30,spicy,main course,799,4,https://ministryofcurry.com/wp-content/uploads/2023/06/chana-masala_-5.jpg
+Chapati,"Whole wheat flour, olive oil, hot water, all purpose flour",vegetarian,10,10,salty,main course,59,2,https://static01.nyt.com/images/2023/04/14/multimedia/14KOMOLAFE-rex1-chapa-mzjb-copy/14KOMOLAFE-rex1-chapa-mzjb-superJumbo.jpg
+Chicken razala,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",non vegetarian,10,35,spicy,main course,599,3,https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Rezala.jpg
+Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",non vegetarian,10,50,spicy,main course,569,3,https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-masala.jpg
+Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",non vegetarian,120,45,spicy,starter,450,3,https://imagevars.gulfnews.com/2023/05/01/Tandoori-chicken_187d79b132b_large.jpg
+Chole bhature,"Chole, bhatura, garam masala, bay leaf, cinnamon stick",vegetarian,20,30,spicy,main course,489,2,https://recipes.timesofindia.com/thumb/53314156.cms?width=1200&height=900
+Daal baati churma,"Moong dal, masoor dal, chana dal, wheat flour, almond",vegetarian,10,90,spicy,main course,1199,3,https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Rajasthani_Dal_Bati_Churma_Recipe-5.jpg
+Daal puri,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",vegetarian,30,30,spicy,main course,1200,2,https://www.foodie-trail.com/wp-content/uploads/2021/08/PHOTO-2021-08-05-14-27-35-rotated.jpg
+Dal makhani ,"Red kidney beans, urad dal, cream, garam masala, chili powder",vegetarian,10,60,sweet,main course,1500,5,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh07n8oVTLYprXUqkFEdfDnTwdwKy1FtGrFo73ntnTKA&s
+Dal tadka,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",vegetarian,10,30,spicy,main course,145,3,https://holycowvegan.net/wp-content/uploads/2015/12/indian-dal-tadka.jpg
+Dum aloo,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",vegetarian,20,50,spicy,main course,450,3,https://www.vegrecipesofindia.com/wp-content/uploads/2012/04/kashmiri-dum-aloo-recipe-11a.jpg
+Poha,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",vegetarian,20,30,spicy,snack,100,2,https://www.vegrecipesofindia.com/wp-content/uploads/2022/09/poha-recipe-2.jpg
+Fara,"Chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder",vegetarian,10,60,spicy,snack,120,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvdb7X-VHbI0teTe1H5JvcH9JSeiNYYVQ4aJeCXMCHw&s
+Kachori,"Moong dal, rava, garam masala, dough, fennel seeds",vegetarian,30,60,spicy,snack,150,2,https://foodfusion.com/wp-content/uploads/2017/05/ID-R00297-5.jpg
+Kadai paneer,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",vegetarian,20,30,spicy,main course,500,2,https://www.cubesnjuliennes.com/wp-content/uploads/2020/03/Best-Kadai-Paneer-Recipe.jpg
+Kadhi pakoda,"Besan, garam masala powder, gram flour, ginger, curry leaves",vegetarian,10,60,spicy,main course,599,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxod0IJwiOxfOILwe3mYIDdy_UxVoFXb6uUeEEHe29gA&s
+Karela bharta,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder",vegetarian,20,50,bitter,main course,699,2,https://maayeka.com/wp-content/uploads/2015/07/maayeka-BHARWA-KARELA-STUFED-BITTER-GOURD-RECIPE-maayeka-1.jpg
+Khichdi,"Moong dal, green peas, ginger, tomato, green chili",vegetarian,40,20,spicy,main course,799,2,https://holycowvegan.net/wp-content/uploads/2014/06/masala-khichdi-featured-image.jpg
+Kofta,"Paneer, potato, cream, corn flour, garam masala",vegetarian,20,40,spicy,main course,899,2,https://myheartbeets.com/wp-content/uploads/2019/09/Kofta-Curry-ground-meat-beef-lamb-500x500.jpg
+Kulfi falooda,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,45,25,sweet,dessert,160,2,https://www.indikitchen.co/wp-content/uploads/2021/06/1689-026-e1625320826665.jpg
+Lauki ke kofte,"Bottle gourd, garam masala powder, gram flour, ginger, chillies",vegetarian,20,40,spicy,main course,100,2,https://www.whiskaffair.com/wp-content/uploads/2020/09/Lauki-Kofta-2-3.jpg
+Lauki ki subji,"Bottle gourd, coconut oil, garam masala, ginger, green chillies",vegetarian,10,20,spicy,main course,100,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuIvZFaGe-__i1MhgsNFUU1Gbw_m0kqdjkA9ocI_Gmg&s
+Litti chokha,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli",vegetarian,45,60,spicy,main course,150,2,https://static.toiimg.com/thumb/53188495.cms?width=1200&height=900
+Makki di roti sarson da saag,"Palak, makki atta, mustard green, garam masala, ginger",vegetarian,25,30,spicy,main course,200,2,https://static.toiimg.com/thumb/54670698.cms?imgsize=77257&width=800&height=800

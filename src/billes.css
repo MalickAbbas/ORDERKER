@@ -1,0 +1,72 @@
+/* styles.css */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .bill-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .item-name {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .item-price {
+    font-size: 20px;
+    color: #555;
+  }
+  
+  .total-price {
+    text-align: right;
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .total-price-label {
+    color: #333;
+  }
+  
+  .total-price-value {
+    color: #4caf50;
+  }
+  
+  /* Responsive styles */
+  @media screen and (max-width: 600px) {
+    .container {
+      padding: 15px;
+    }
+  
+    h1 {
+      font-size: 24px;
+    }
+  
+    .item-name {
+      font-size: 18px;
+    }
+  
+    .item-price {
+      font-size: 18px;
+    }
+  
+    .total-price {
+      font-size: 20px;
+    }
+  }
+  

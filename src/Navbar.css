@@ -1,0 +1,14 @@
+.navbar {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+  }
+  
+  .nav-icon {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
